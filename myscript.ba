@@ -1,0 +1,9 @@
+int result.
+move 5 to result.{left open comment}
+loop 3 times [ 
+out newline.
+add 1 to result.
+out result.
+loop 2 times [
+out "a".]
+]
